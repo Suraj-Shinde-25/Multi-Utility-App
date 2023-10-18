@@ -14,4 +14,21 @@
     <string name="menu_tdList">To-Do-List</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="currencies">
+        <item>United States Dollar</item>
+        <item>Canadian Dollar</item>
+        <item>Chinese Yuan</item>
+        <item>Euro</item>
+        <item>Hong Kong Dollar</item>
+        <item>South Korean won</item>
+        <item>Russian Ruble</item>
+        <item>Japanese Yen</item>
+        <item>Singapore Dollar</item>
+        <item>Sri Lankan Rupee</item>
+        <item>Pakistan Rupee</item>
+        <item>UAE Dirham</item>
+    </string-array>
+
+
 </resources>
