@@ -13,7 +13,7 @@
             android:icon="@drawable/ic_baseline_calculate"
             android:title="@string/menu_calculator" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_currency"
             android:icon="@drawable/ic_baseline_monetization"
             android:title="@string/menu_cc" />
         <item
