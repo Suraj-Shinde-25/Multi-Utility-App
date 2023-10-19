@@ -86,7 +86,7 @@ public class CurrencyFragment extends Fragment {
                 convertedAmount = amount * IND_TO_UAED_RATE;
             }
 
-            resultTextView.setText(String.format("%.2f IND Rupee = %.2f %s", amount, convertedAmount, selectedCurrency));
+            resultTextView.setText(String.format("%.2f %s", convertedAmount, selectedCurrency));
         } else {
             resultTextView.setText("Enter valid amount.");
         }
