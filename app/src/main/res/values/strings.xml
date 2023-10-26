@@ -10,6 +10,7 @@
     <string name="menu_home">Home</string>
     <string name="menu_calculator">Calculator</string>
     <string name="menu_cc">Currency Converter</string>
+    <string name="menu_c">Calender</string>
     <string name="menu_notes">Notes</string>
     <string name="menu_tdList">To-Do-List</string>
     <!-- TODO: Remove or change this placeholder text -->

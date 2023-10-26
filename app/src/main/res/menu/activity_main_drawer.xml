@@ -17,6 +17,10 @@
             android:icon="@drawable/ic_baseline_monetization"
             android:title="@string/menu_cc" />
         <item
+            android:id="@+id/nav_calender"
+            android:icon="@drawable/ic_baseline_calendar"
+            android:title="@string/menu_c" />
+        <item
             android:id="@+id/nav_notes"
             android:icon="@drawable/ic_baseline_note"
             android:title="@string/menu_notes" />
