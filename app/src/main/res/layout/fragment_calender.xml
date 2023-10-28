@@ -31,7 +31,7 @@
                 android:orientation="horizontal">
 
                 <ImageView
-                    android:id="@+id/imageView1"
+                    android:id="@+id/imageViewJan"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="20dp"
@@ -41,7 +41,7 @@
                     android:src="@drawable/jan" />
 
                 <ImageView
-                    android:id="@+id/imageView2"
+                    android:id="@+id/imageViewFeb"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="20dp"
@@ -60,22 +60,22 @@
                 android:orientation="horizontal">
 
                 <ImageView
-                    android:id="@+id/imageView3"
+                    android:id="@+id/imageViewMar"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
+                    android:layout_weight="1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/mar" />
 
                 <ImageView
-                    android:id="@+id/imageView4"
+                    android:id="@+id/imageViewApr"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
+                    android:layout_weight="1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/apr" />
             </LinearLayout>
@@ -89,22 +89,22 @@
                 android:orientation="horizontal">
 
                 <ImageView
-                    android:id="@+id/imageView5"
+                    android:id="@+id/imageViewMay"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
+                    android:layout_weight="1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/may" />
 
                 <ImageView
-                    android:id="@+id/imageView6"
+                    android:id="@+id/imageViewJun"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
+                    android:layout_weight="1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/jun" />
             </LinearLayout>
@@ -118,22 +118,22 @@
                 android:orientation="horizontal">
 
                 <ImageView
-                    android:id="@+id/imageView7"
+                    android:id="@+id/imageViewJul"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
+                    android:layout_weight="1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/jul" />
 
                 <ImageView
-                    android:id="@+id/imageView8"
+                    android:id="@+id/imageViewAug"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
+                    android:layout_weight="1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/aug" />
             </LinearLayout>
@@ -147,22 +147,22 @@
                 android:orientation="horizontal">
 
                 <ImageView
-                    android:id="@+id/imageView9"
+                    android:id="@+id/imageViewSep"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
+                    android:layout_weight="1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/sep" />
 
                 <ImageView
-                    android:id="@+id/imageView10"
+                    android:id="@+id/imageViewOct"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
+                    android:layout_weight="1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/oct" />
             </LinearLayout>
@@ -176,22 +176,22 @@
                 android:orientation="horizontal">
 
                 <ImageView
-                    android:id="@+id/imageView11"
+                    android:id="@+id/imageViewNov"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
+                    android:layout_weight="1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/nov" />
 
                 <ImageView
-                    android:id="@+id/imageView12"
+                    android:id="@+id/imageViewDec"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
+                    android:layout_weight="1"
                     android:scaleType="centerCrop"
                     android:src="@drawable/dec" />
             </LinearLayout>
