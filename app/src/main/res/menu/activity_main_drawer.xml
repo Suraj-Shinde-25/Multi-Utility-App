@@ -21,12 +21,12 @@
             android:icon="@drawable/ic_baseline_calendar"
             android:title="@string/menu_c" />
         <item
-            android:id="@+id/nav_notes"
-            android:icon="@drawable/ic_baseline_note"
-            android:title="@string/menu_notes" />
-        <item
             android:id="@+id/nav_tdList"
             android:icon="@drawable/ic_baseline_list"
             android:title="@string/menu_tdList" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_baseline_note"
+            android:title="@string/menu_notes" />
     </group>
 </menu>
