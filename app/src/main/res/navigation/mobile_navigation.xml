@@ -32,4 +32,5 @@
         android:name="com.example.multiutilityapp.ui.todolist.todolistFragment"
         android:label="@string/menu_tdList"
         tools:layout="@layout/fragment_todolist" />
+    
 </navigation>

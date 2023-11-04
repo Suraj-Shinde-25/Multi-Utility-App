@@ -10,8 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MultiUtilityApp">
         <activity
+            android:name=".ui.todolist.todolistActivity"
+            android:label="To-Do-List"
+            android:exported="false"/>
+        <activity
             android:name=".ui.calender.CalenderActivity"
-            android:exported="false" />
+            android:label="Calender"
+            android:exported="false"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"

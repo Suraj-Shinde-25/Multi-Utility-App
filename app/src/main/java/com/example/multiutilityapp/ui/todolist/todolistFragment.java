@@ -1,6 +1,8 @@
 package com.example.multiutilityapp.ui.todolist;
 
 
+import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
@@ -17,7 +19,8 @@ public class todolistFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
+        Intent intent = new Intent(getActivity(), todolistActivity.class);
+        startActivity(intent);
         return inflater.inflate(R.layout.fragment_todolist, container, false);
     }
-
 }

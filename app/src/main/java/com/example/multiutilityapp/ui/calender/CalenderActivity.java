@@ -1,6 +1,7 @@
 package com.example.multiutilityapp.ui.calender;
 
 import androidx.annotation.NonNull;
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -21,10 +22,16 @@ public class CalenderActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calender);
-        //for hiding actionBar
+
+        /* //for hiding actionBar
         if (getSupportActionBar() != null) {
             getSupportActionBar().hide();
-        }
+        }*/
+
+        /* // back button in action bar
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.setHomeAsUpIndicator(R.drawable.baseline_arrow_back);
+        actionBar.setDisplayHomeAsUpEnabled(true); */
 
         Intent intent = getIntent();
 
